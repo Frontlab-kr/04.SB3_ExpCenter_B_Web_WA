@@ -1,0 +1,34 @@
+[
+  {"cPOIId":"P6032", "cType":"em", "cFloorId": "1F", "isText": false, "x": 45, "y": -25, "zImgInfo" : [
+    {"cPath" : "/boramae/guide/first_aid/일반응급처치_1.jpg"}
+  ]},
+  {"cPOIId":"P6055", "cType":"em", "cFloorId": "1F", "isText": false, "x": -40, "y": -15, "zImgInfo" : [
+    {"cPath" : "/boramae/guide/children/어린이안전체험_1.jpg"},
+    {"cPath" : "/boramae/guide/children/어린이안전체험_2.jpg"},
+    {"cPath" : "/boramae/guide/children/어린이안전체험_3.jpg"}
+  ]},
+  {"cPOIId":"P6060", "cType":"fi", "cFloorId": "2F", "isText": false, "x": 10, "y": -15, "zImgInfo" : [
+    {"cPath" : "/boramae/guide/museum/소방역사박물관_1.jpg"},
+    {"cPath" : "/boramae/guide/museum/소방역사박물관_2.jpg"},
+    {"cPath" : "/boramae/guide/museum/소방역사박물관_3.jpg"},
+    {"cPath" : "/boramae/guide/museum/소방역사박물관_4.jpg"}
+  ]},
+  {"cPOIId":"P6022", "cType":"fi", "cFloorId": "3F", "isText": false, "x": 0, "y": -15, "zImgInfo" : [
+    {"cPath" : "/boramae/guide/safetraining/소방시설교육_1.jpg"},
+    {"cPath" : "/boramae/guide/safetraining/소방시설교육_2.jpg"},
+    {"cPath" : "/boramae/guide/safetraining/소방시설교육_3.jpg"}
+  ]},
+  {"cPOIId":"P6070", "cType":"ch", "cFloorId": "2F", "isText": false, "x": -4, "y": 20, "zImgInfo" : [
+    {"cPath" : "/boramae/guide/4D/4D재난영화_1.jpg"},
+    {"cPath" : "/boramae/guide/4D/4D재난영화_2.jpg"}
+  ]},
+  {"cPOIId":"P6056", "cType":"em", "cFloorId": "1F", "isText": false, "x": -25, "y": -5, "zImgInfo" : [
+    {"cPath" : "/boramae/guide/children/어린이안전체험_1.jpg"},
+    {"cPath" : "/boramae/guide/children/어린이안전체험_2.jpg"},
+    {"cPath" : "/boramae/guide/children/어린이안전체험_3.jpg"}
+  ]},
+  {"cPOIId":"P6030", "cType":"em", "cFloorId": "1F", "isText": false, "x": 45, "y": 2, "zImgInfo" : [
+    {"cPath" : "/boramae/guide/advanced_first_aid/전문응급처치_1.jpeg"},
+    {"cPath" : "/boramae/guide/advanced_first_aid/전문응급처치_2.jpg"}
+  ]}
+]

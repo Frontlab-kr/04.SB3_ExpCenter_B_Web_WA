@@ -1,0 +1,288 @@
+{
+  "common_search": "검색",
+  "total_menu": "전체메뉴",
+  "main_title": "보라매 안전체험관",
+  "common_blank": "새창으로 열림",
+
+  "html_title_exp_intro": "보라매 안전 체험관 : 체험관 소개 > 소개",
+
+  "masterhead_title_1": "서울소식",
+  "masterhead_title_2": "응답소",
+  "masterhead_title_3": "정보공개",
+  "masterhead_title_4": "분야별정보",
+  "masterhead_subtitle_1": "주택",
+  "masterhead_subtitle_2": "경제",
+  "masterhead_subtitle_3": "교통",
+  "masterhead_subtitle_4": "환경",
+  "masterhead_subtitle_5": "복지",
+  "masterhead_subtitle_6": "안전",
+  "masterhead_subtitle_7": "문화",
+  "masterhead_subtitle_8": "행정",
+  "masterhead_subtitle_9": "서비스전체보기",
+
+  "footer_info_1": "개인정보처리방침",
+  "footer_info_2": "영상정보처리기기 운영관리 방침",
+  "footer_info_3": "사이트맵",
+  "footer_info_4": "주간",
+  "footer_info_5": "보라매 안전체험관",
+  "footer_info_6": "이 누리집은 보라매 안전체험관 누리집입니다",
+
+  "footer_link_title_1": "소방서",
+  "footer_link_title_2": "유관기관",
+  "footer_link_title_3": "재해관련",
+  "footer_link_title_4": "방재정보",
+
+  "main_info_feild_1": "공지사항",
+
+  "all_btn_글쓰기": "글쓰기",
+
+  "all_table_header_번호": "번호",
+  "all_table_header_파일": "파일",
+  "all_table_header_조회수": "조회수",
+  "all_table_header_제목": "제목",
+  "all_table_header_작성자": "작성자",
+  "all_table_header_등록일": "등록일",
+  "all_table_header_상태": "상태",
+  "all_table_header_구분": "구분",
+  "all_table_header_비밀번호": "비밀번호",
+  "all_table_header_장소": "장소",
+  "all_table_header_프로그램": "프로그램",
+  "all_table_header_날짜/시간": "날짜/시간",
+  "all_table_header_예약인원": "예약인원",
+  "all_table_header_예약상태": "예약상태",
+  "all_table_header_신청자이름": "이수증 신청자 이름",
+  "all_table_header_시작일자": "시작일자",
+  "all_table_header_종료일자": "종료일자",
+  "all_table_header_인원수": "인원수",
+
+  "all_btn_download": "다운로드",
+  "all_btn_edit": "수정",
+  "all_btn_close": "닫기",
+  "all_btn_write": "글쓰기",
+  "all_btn_reply": "댓글 달기",
+  "all_btn_delete": "삭제",
+  "all_btn_add_file": "파일첨부",
+  "all_btn_check": "확인",
+  "all_btn_cancel": "취소",
+  "all_btn_pre": "이전",
+  "all_btn_next": "다음",
+  "all_btn_save": "저장",
+
+  "all_table_header_1": "번호",
+  "all_table_header_2": "파일",
+  "all_table_header_3": "조회수",
+  "all_table_header_4": "제목",
+  "all_table_header_5": "작성자",
+  "all_table_header_6": "등록일",
+  "all_table_header_7": "상태",
+  "all_table_header_8": "구분",
+  "all_table_header_9": "비밀번호",
+  "all_table_header_10": "미리보기",
+  "all_table_header_11": "카테고리",
+
+  "all_table_placeholder_1": "제목 또는 내용 또는 작성자를 입력하세요",
+
+  "all_dialog_item_1": "파일명",
+
+  "all_textfeild_title_1": "성명",
+  "all_textfeild_title_2": "휴대전화",
+  "all_textfeild_title_3": "우편번호",
+  "all_textfeild_title_4": "관할 소방서",
+  "all_textfeild_title_5": "신고내용",
+  "all_textfeild_title_6": "성별",
+
+  "req_form_placeholder": "서식명 또는 서식내용 또는 처리부서를 입력하세요",
+  "req_form_table_header_1": "서식명",
+  "req_form_table_header_2": "처리부서",
+  "req_form_table_header_3": "생성시간",
+  "req_form_dialog_header_1": "서식명",
+  "req_form_dialog_header_2": "관련부서",
+  "req_form_dialog_header_3": "지도감독",
+  "req_form_dialog_header_4": "사무내용",
+  "req_form_dialog_header_5": "처리과정",
+  "req_form_dialog_header_6": "접수처",
+  "req_form_dialog_header_7": "경유처",
+  "req_form_dialog_header_8": "처분청",
+  "req_form_dialog_header_9": "대조공부",
+  "req_form_dialog_header_10": "비치대장",
+  "req_form_dialog_header_11": "처리기간",
+  "req_form_dialog_header_12": "최종결재",
+  "req_form_dialog_header_13": "수수료",
+  "req_form_dialog_header_14": "면허세",
+  "req_form_dialog_header_15": "현장조사사항",
+  "req_form_dialog_header_16": "처리요건",
+  "req_form_dialog_header_17": "후속민원",
+  "req_form_dialog_header_18": "처리흐름",
+  "req_form_dialog_header_19": "구비서류",
+  "req_form_dialog_header_20": "처리요령 및 유의사항",
+
+  "req_policy_placeholder": "제목 또는 내용 또는 작성자를 입력하세요",
+  "req_policy_header_2": "비밀글",
+  "req_policy_header_3": "댓글",
+
+  "menu_01_체험관소개": "체험관 소개",
+  "menu_0101_소개": "소개",
+  "menu_0102_조직도": "조직도",
+  "menu_0103_시설현황": "시설현황",
+  "menu_010301_1F": "1F",
+  "menu_010302_2F": "2F",
+  "menu_010303_3F": "3F",
+  "menu_010304_B1": "B1",
+  "menu_0104_오시는길": "찾아오시는 길",
+
+  "menu_0201_이용안내": "이용안내",
+  "menu_0204_어린이안전체험": "어린이안전체험",
+  "menu_020201_지진체험": "지진체험",
+  "menu_020202_태풍체험": "태풍체험",
+  "menu_020203_화재대피체험": "화재대피체험",
+  "menu_020204_교통사고체험": "교통사고체험",
+  "menu_020301_일반응급처치": "일반응급처치",
+  "menu_020302_소방시설교육": "소방시설교육",
+  "menu_020303_전문응급처치": "전문응급처치",
+  "menu_020501_4D재난영화": "4D재난영화",
+  "menu_020502_소방역사박물관": "소방역사박물관",
+
+  "menu_03_예약이수증발급": "예약/이수증 발급",
+  "menu_0301_예약": "예약",
+  "menu_0302_예약조회": "예약조회",
+  "menu_0303_이수증발급": "이수증 발급",
+  "menu_0304_예약현황조회": "예약현황",
+  "menu_0305_빈자리알림조회": "빈자리 알림 조회",
+
+  "menu_04_커뮤니티": "커뮤니티",
+  "menu_0402_자주하는질문": "자주하는 질문",
+  "menu_0403_묻고답하기": "묻고답하기",
+  "menu_0404_체험후기": "체험후기",
+  "menu_0405_생활안전자료": "안전자료",
+  "menu_040401_화재감지및대피요령": "화재감지 및 대피요령",
+  "menu_040402_불이났을때행동요령": "불이났을때 행동요령",
+  "menu_040403_연기속대피요령": "연기속 대피요령",
+  "menu_040404_불이난건물속에갇혔을때": "불이난 건물속에 갇혔을때",
+  "menu_040405_도움이되는소방시설": "도움이 되는 소방시설",
+  "menu_040406_담뱃불안전조치": "담뱃불 안전조치",
+  "menu_040407_주방안전수칙준수": "주방안전수칙 준수",
+  "menu_040408_전기안전하게사용하기": "전기 안전하게 사용하기",
+  "menu_040409_가스안전하게사용하기": "가스 안전하게 사용하기",
+  "menu_040410_에스컬레이터및승강기안전": "에스컬레이터 및 승강기 안전",
+  "menu_040411_안전산행정보": "안전산행정보",
+  "menu_040412_등산로및표지판위치": "등산로 및 표지판위치",
+  "menu_040413_심폐소생술이란": "심폐소생술이란?",
+  "menu_040414_기도패쇄": "기도패쇄",
+  "menu_040415_생활응급처치": "생활응급처치",
+  "menu_040416_응급처치리플렛": "응급처치 리플렛",
+  "menu_0406_관련사이트": "관련 사이트",
+
+  "menu_dept_2_040201": "폭염",
+  "menu_dept_2_040202": "지진",
+  "menu_dept_2_040203": "지진해일",
+
+  "menu_dept_2_040301": "생화학 테러 시 대처 요령",
+
+  "menu_dept_2_040401": "위기 대처 방법",
+  "menu_dept_2_040402": "안전사고 대처 요령",
+  "menu_dept_2_040403": "안전 산행정보",
+  "menu_dept_2_040404": "등산로 및 표지판 위치",
+
+  "menu_dept_2_040501": "기본 심폐소생술",
+  "menu_dept_2_040502": "이물질에 의한 기도 폐쇄",
+  "menu_dept_2_040503": "출혈",
+  "menu_dept_2_040504": "쇼크",
+  "menu_dept_2_040505": "돌연사",
+  "menu_dept_2_040506": "뇌졸중",
+  "menu_dept_2_040507": "심근경색",
+  "menu_dept_2_040508": "생활 응급처치",
+
+  "m4_showdetail_subtitle_1": "첨부파일",
+  "m4_showdetail_subtitle_2": "댓글작성",
+  "m4_showdetail_content_1": "바로보기",
+  "m4_showdetail_content_2": "바로듣기",
+
+  "res_select_label_1": "년도",
+  "res_select_label_2": "월",
+
+  "res_day_1": "일",
+  "res_day_2": "월",
+  "res_day_3": "화",
+  "res_day_4": "수",
+  "res_day_5": "목",
+  "res_day_6": "금",
+  "res_day_7": "토",
+
+  "alarm_title": "안전체험관 이용을 위한 인증",
+  "alarm_contents": "안전체험관 빈자리 알림 조회를 위하여 아래의 본인인증 중 선택하여 진행해 주세요.",
+
+  "$vuetify": {
+    "badge": "배지",
+    "close": "닫기",
+    "dataIterator": {
+      "noResultsText": "일치하는 기록이 없습니다",
+      "loadingText": "불러오는 중..."
+    },
+    "dataTable": {
+      "itemsPerPageText": "페이지 당 항목 수:",
+      "ariaLabel": {
+        "sortDescending": "내림차순 정렬됨.",
+        "sortAscending": "오름차순 정렬됨.",
+        "sortNone": "정렬되지 않음.",
+        "activateNone": "정렬을 제거하려면 활성화하세요.",
+        "activateDescending": "내림차순 정렬을 활성화하려면 클릭하세요.",
+        "activateAscending": "오름차순 정렬을 활성화하려면 클릭하세요."
+      },
+      "sortBy": "정렬 기준"
+    },
+    "dataFooter": {
+      "itemsPerPageText": "페이지 당 항목 수:",
+      "itemsPerPageAll": "전체",
+      "nextPage": "다음 페이지",
+      "prevPage": "이전 페이지",
+      "firstPage": "첫 페이지",
+      "lastPage": "마지막 페이지",
+      "pageText": "{0}-{1} / {2}"
+    },
+    "datePicker": {
+      "itemsSelected": "{0} 선택됨",
+      "nextMonthAriaLabel": "다음 달",
+      "nextYearAriaLabel": "내년",
+      "prevMonthAriaLabel": "지난 달",
+      "prevYearAriaLabel": "작년"
+    },
+    "noDataText": "사용할 수 없습니다",
+    "carousel": {
+      "prev": "이전 비주얼",
+      "next": "다음 비주얼",
+      "ariaLabel": {
+        "delimiter": "캐러셀 슬라이드 {0} / {1}"
+      }
+    },
+    "calendar": {
+      "moreEvents": "{0} 더보기"
+    },
+    "fileInput": {
+      "counter": "{0} 파일",
+      "counterSize": "{0} 파일 (총 {1})"
+    },
+    "timePicker": {
+      "am": "오전",
+      "pm": "오후"
+    },
+    "pagination": {
+      "ariaLabel": {
+        "wrapper": "페이지 네비게이션",
+        "next": "다음 페이지",
+        "previous": "이전 페이지",
+        "page": "페이지로 이동 {0}",
+        "currentPage": "현재 페이지, 페이지 {0}"
+      }
+    },
+    "rating": {
+      "ariaLabel": {
+        "icon": "등급 {0} 중 {1}"
+      }
+    },
+    "loading": "로딩 중...",
+    "input": {
+      "appendAction": "추가",
+      "prependAction": "추가"
+    }
+  }
+}

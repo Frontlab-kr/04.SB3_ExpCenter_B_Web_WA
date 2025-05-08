@@ -1,0 +1,288 @@
+{
+  "common_search": "Search",
+  "total_menu": "Menu",
+  "main_title": "Boramae Safety Experience Center",
+  "common_blank": "new window",
+
+  "html_title_exp_intro": "Introduction to the Experience Center > Overview",
+
+  "masterhead_title_1": "Seoul News",
+  "masterhead_title_2": "Response Center",
+  "masterhead_title_3": "Information Disclosure or Public Information",
+  "masterhead_title_4": "Information by Category",
+  "masterhead_subtitle_1": "Housing",
+  "masterhead_subtitle_2": "Economy",
+  "masterhead_subtitle_3": "Transportation",
+  "masterhead_subtitle_4": "Environment",
+  "masterhead_subtitle_5": "Welfare",
+  "masterhead_subtitle_6": "Safety",
+  "masterhead_subtitle_7": "Culture",
+  "masterhead_subtitle_8": "Administration",
+  "masterhead_subtitle_9": "View All Services",
+
+  "footer_info_1": "Privacy Policy",
+  "footer_info_2": "Video Information Processing Device Operation and Management Policy",
+  "footer_info_3": "Sitemap",
+  "footer_info_4": "Daytime",
+  "footer_info_5": "Boramae Safety Experience Center",
+  "footer_info_6": "This website is operated by the Boramae Safety Experience Center",
+
+  "footer_link_title_1": "Fire Station",
+  "footer_link_title_2": "Agencies",
+  "footer_link_title_3": "Disaster-related",
+  "footer_link_title_4": "Disaster Prevention Information",
+
+  "main_info_feild_1": "Announcements",
+
+  "all_btn_글쓰기": "Post a Comment",
+
+  "all_table_header_번호": "No.",
+  "all_table_header_파일": "Attachment",
+  "all_table_header_조회수": "Views",
+  "all_table_header_제목": "Title",
+  "all_table_header_작성자": "Author",
+  "all_table_header_등록일": "Date Registered",
+  "all_table_header_상태": "Status",
+  "all_table_header_구분": "Category",
+  "all_table_header_비밀번호": "Password",
+  "all_table_header_장소": "Place",
+  "all_table_header_프로그램": "Program",
+  "all_table_header_날짜/시간": "Date/Time",
+  "all_table_header_예약인원": "MemberSum",
+  "all_table_header_예약상태": "State",
+  "all_table_header_신청자이름": "MemberNm",
+  "all_table_header_시작일자": "Start Date",
+  "all_table_header_종료일자": "End Date",
+  "all_table_header_인원수": "Headcount",
+
+  "all_btn_download": "Download",
+  "all_btn_edit": "Edit",
+  "all_btn_close": "Clsoe",
+  "all_btn_write": "Post a Comment",
+  "all_btn_reply": "Write a Post",
+  "all_btn_delete": "Delete",
+  "all_btn_add_file": "Attach File",
+  "all_btn_check": "Check",
+  "all_btn_cancel": "Cancel",
+  "all_btn_pre": "Previous",
+  "all_btn_next": "Next",
+  "all_btn_save": "Save",
+
+  "all_table_header_1": "No.",
+  "all_table_header_2": "Attachment",
+  "all_table_header_3": "Views",
+  "all_table_header_4": "Title",
+  "all_table_header_5": "Author",
+  "all_table_header_6": "Date Registered",
+  "all_table_header_7": "Status",
+  "all_table_header_8": "Sort",
+  "all_table_header_9": "Password",
+  "all_table_header_10": "Prwview",
+  "all_table_header_11": "Category",
+
+  "all_table_placeholder_1": "Enter title, content, or author",
+
+  "all_dialog_item_1": "File Name",
+
+  "all_textfeild_title_1": "성명",
+  "all_textfeild_title_2": "휴대전화",
+  "all_textfeild_title_3": "우편번호",
+  "all_textfeild_title_4": "관할 소방서",
+  "all_textfeild_title_5": "신고내용",
+  "all_textfeild_title_6": "성별",
+
+  "req_form_placeholder": "Please enter the form name, form content, or processing department",
+  "req_form_table_header_1": "Form Name",
+  "req_form_table_header_2": "Processing Department",
+  "req_form_table_header_3": "CreateDateTime",
+  "req_form_dialog_header_1": "Format Name",
+  "req_form_dialog_header_2": "Related Department",
+  "req_form_dialog_header_3": "Supervision",
+  "req_form_dialog_header_4": "Office Content",
+  "req_form_dialog_header_5": "Processing Procedure",
+  "req_form_dialog_header_6": "Receiving Office",
+  "req_form_dialog_header_7": "Transit Office",
+  "req_form_dialog_header_8": "Disposing Authority",
+  "req_form_dialog_header_9": "Reference Documents",
+  "req_form_dialog_header_10": "Record Book",
+  "req_form_dialog_header_11": "Processing Period",
+  "req_form_dialog_header_12": "Final Approval",
+  "req_form_dialog_header_13": "Fee",
+  "req_form_dialog_header_14": "License Tax",
+  "req_form_dialog_header_15": "Field Investigation Details",
+  "req_form_dialog_header_16": "Processing Requirements",
+  "req_form_dialog_header_17": "Follow-up Complaints",
+  "req_form_dialog_header_18": "Processing Flow",
+  "req_form_dialog_header_19": "Required Documents",
+  "req_form_dialog_header_20": "Processing Instructions and Notes",
+
+  "req_policy_placeholder": "Enter title, content, or author",
+  "req_policy_header_2": "Private post",
+  "req_policy_header_3": "Reply",
+
+  "menu_01_체험관소개": "Introduce",
+  "menu_0101_소개": "Introduce",
+  "menu_0102_조직도": "Organization",
+  "menu_0103_시설현황": "Facilitystatus",
+  "menu_010301_1F": "1F",
+  "menu_010302_2F": "2F",
+  "menu_010303_3F": "3F",
+  "menu_010304_B1": "B1",
+  "menu_0104_오시는길": "How to Get Here",
+
+  "menu_0201_이용안내": "Guide",
+  "menu_0204_어린이안전체험": "Children's Safety Experience",
+  "menu_020201_지진체험": "Tsunami Experience",
+  "menu_020202_태풍체험": "Typhoon Experience",
+  "menu_020203_화재대피체험": "Fire Evacuation Experience",
+  "menu_020204_교통사고체험": "Traffic Accident Experience",
+  "menu_020301_일반응급처치": "Basic First Aid",
+  "menu_020302_소방시설교육": "Fire Safety Equipment Training",
+  "menu_020303_전문응급처치": "Advanced First Aid",
+  "menu_020501_4D재난영화": "4D Disaster Movie",
+  "menu_020502_소방역사박물관": "Firefighting History Museum",
+
+  "menu_03_예약이수증발급": "Reservation/Certificate",
+  "menu_0301_예약": "Reservation",
+  "menu_0302_예약조회": "Check Reservation",
+  "menu_0303_이수증발급": "Certificate",
+  "menu_0304_예약현황조회": "Check Reservation Status",
+  "menu_0305_빈자리알림조회": "Check Available Slot Notification Status",
+
+  "menu_04_커뮤니티": "Community",
+  "menu_0402_자주하는질문": "FAQ",
+  "menu_0403_묻고답하기": "Q&A",
+  "menu_0404_체험후기": "Experience Review",
+  "menu_0405_생활안전자료": "Information",
+  "menu_040401_화재감지및대피요령": "Fire Detection and Evacuation Procedures",
+  "menu_040402_불이났을때행동요령": "Fire Emergency Action Plan",
+  "menu_040403_연기속대피요령": "Evacuation Guidelines for Escaping Smoke",
+  "menu_040404_불이난건물속에갇혔을때": "How to Act When Trapped in a Burning Building",
+  "menu_040405_도움이되는소방시설": "Useful Fire Safety Equipment",
+  "menu_040406_담뱃불안전조치": "Cigarette Fire Safety Precautions",
+  "menu_040407_주방안전수칙준수": "Following Kitchen Safety Guidelines",
+  "menu_040408_전기안전하게사용하기": "Safe Use of Electricity",
+  "menu_040409_가스안전하게사용하기": "Safe Use of Gas",
+  "menu_040410_에스컬레이터및승강기안전": "Escalator and Elevator Safety Tips",
+  "menu_040411_안전산행정보": "Hiking Safety Information",
+  "menu_040412_등산로및표지판위치": "Trail and Signpost Locations",
+  "menu_040413_심폐소생술이란": "What is Cardiopulmonary Resuscitation (CPR)?",
+  "menu_040414_기도패쇄": "Airway Obstruction",
+  "menu_040415_생활응급처치": "Everyday First Aid",
+  "menu_040416_응급처치리플렛": "First Aid Brochure",
+  "menu_0406_관련사이트": "Site",
+
+  "menu_dept_2_040201": "Heatwave",
+  "menu_dept_2_040202": "Earthquake",
+  "menu_dept_2_040203": "Tsunami",
+
+  "menu_dept_2_040301": "Guidelines for Responding to a Biochemical Terror Attack",
+
+  "menu_dept_2_040401": "Crisis Response Methods",
+  "menu_dept_2_040402": "Safety Accident Response Guidelines",
+  "menu_dept_2_040403": "Safe Hiking Information",
+  "menu_dept_2_040404": "Hiking Trail and Sign Location",
+
+  "menu_dept_2_040501": "Basic CPR (Cardiopulmonary Resuscitation)",
+  "menu_dept_2_040502": "Airway Obstruction by Foreign Objects",
+  "menu_dept_2_040503": "Bleeding",
+  "menu_dept_2_040504": "Shock",
+  "menu_dept_2_040505": "Sudden Cardiac Arrest",
+  "menu_dept_2_040506": "Stroke",
+  "menu_dept_2_040507": "Myocardial Infarction (Heart Attack)",
+  "menu_dept_2_040508": "Everyday First Aid",
+
+  "m4_showdetail_subtitle_1": "Attached File",
+  "m4_showdetail_subtitle_2": "Write a Reply",
+  "m4_showdetail_content_1": "View",
+  "m4_showdetail_content_2": "Listen",
+
+  "res_select_label_1": "Year",
+  "res_select_label_2": "Month",
+
+  "res_day_1": "SUN",
+  "res_day_2": "Mon",
+  "res_day_3": "Tue",
+  "res_day_4": "Wed",
+  "res_day_5": "Thu",
+  "res_day_6": "Fri",
+  "res_day_7": "Sat",
+
+  "alarm_title": "Authentication for Safety Experience Center Usage",
+  "alarm_contents": "To check for available spots at the Safety Experience Center, please select and proceed with one of the authentication methods below.",
+
+  "$vuetify": {
+    "badge": "badge",
+    "close": "close",
+    "dataIterator": {
+      "noResultsText": "No matching records found",
+      "loadingText": "loading..."
+    },
+    "dataTable": {
+      "itemsPerPageText": "Items per page:",
+      "ariaLabel": {
+        "sortDescending": "Sorted descending.",
+        "sortAscending": "Sorted ascending.",
+        "sortNone": "Not sorted.",
+        "activateNone": "Activate to remove sorting.",
+        "activateDescending": "Activate to sort descending.",
+        "activateAscending": "Activate to sort ascending."
+      },
+      "sortBy": "Sort by"
+    },
+    "dataFooter": {
+      "itemsPerPageText": "Items per page:",
+      "itemsPerPageAll": "All",
+      "nextPage": "Next page",
+      "prevPage": "Previous page",
+      "firstPage": "First page",
+      "lastPage": "Last page",
+      "pageText": "{0}-{1} of {2}"
+    },
+    "datePicker": {
+      "itemsSelected": "{0} selected",
+      "nextMonthAriaLabel": "Next month",
+      "nextYearAriaLabel": "Next year",
+      "prevMonthAriaLabel": "Previous month",
+      "prevYearAriaLabel": "Previous year"
+    },
+    "noDataText": "No data available",
+    "carousel": {
+      "prev": "Previous visual",
+      "next": "Next visual",
+      "ariaLabel": {
+        "delimiter": "Carousel slide {0} of {1}"
+      }
+    },
+    "calendar": {
+      "moreEvents": "{0} more"
+    },
+    "fileInput": {
+      "counter": "{0} files",
+      "counterSize": "{0} files (total {1})"
+    },
+    "timePicker": {
+      "am": "AM",
+      "pm": "PM"
+    },
+    "pagination": {
+      "ariaLabel": {
+        "wrapper": "Page navigation",
+        "next": "Next page",
+        "previous": "Previous page",
+        "page": "Go to page {0}",
+        "currentPage": "Current page, page {0}"
+      }
+    },
+    "rating": {
+      "ariaLabel": {
+        "icon": "Rating {0} out of {1}"
+      }
+    },
+    "loading": "Loading...",
+    "input": {
+      "appendAction": "Add",
+      "prependAction": "Add"
+    }
+  }
+}
