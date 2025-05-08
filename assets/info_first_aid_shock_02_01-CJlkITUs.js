@@ -1,0 +1,1 @@
+const _="/04.SB3_ExpCenter_B_Web_WA/boramae/contents/image/info_first_aid_shock_01_01.jpg",e="/04.SB3_ExpCenter_B_Web_WA/boramae/contents/image/info_first_aid_shock_02_01.jpg";export{_,e as a};
