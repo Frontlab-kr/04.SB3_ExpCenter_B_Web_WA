@@ -3,6 +3,9 @@
 body {
   font-family: 'pretendard-gov';
 }
+.ui-contents-area {
+  overflow: hidden;
+}
 .ui-pc-header .ui-header .ui-flex-wrap .ui-gnb .ui-depth1 > li > a {
   max-width: 140px;
   white-space: nowrap;
